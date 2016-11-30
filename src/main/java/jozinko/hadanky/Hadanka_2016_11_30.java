@@ -9,7 +9,7 @@ package jozinko.hadanky;
  * 3.) Compilation failed
  * 4.) Runtime error
  */
-public class Hadanka_30_11_2016 {
+public class Hadanka_2016_11_30 {
 
   public static void method(String s){
     System.out.println("String impl");
