@@ -4,7 +4,10 @@ import jozinko.hadanky.dependencies.Animal;
 import jozinko.hadanky.dependencies.Rabbit;
 
 /**
- * 1.)
+ * 1.) playing with Rabbit
+ * 2.) playing with Animal
+ * 3.) jumping with Rabbit
+ * 4.) jumping with Animal
  */
 public class Hadanka_2016_12_07 {
 
