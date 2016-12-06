@@ -18,7 +18,6 @@ import java.util.Map;
 public class Hadanka_2016_12_06 {
 
   public static void main(String[] args) throws ParseException {
-    Person p = new Person("Fero");
     Map<ID, Person> register = new HashMap<>();
     register.put(new ID(1), new Person("Fero"));
     System.out.println(register.get(new ID(1)));
