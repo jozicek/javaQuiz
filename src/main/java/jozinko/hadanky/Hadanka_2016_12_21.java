@@ -3,10 +3,10 @@ package jozinko.hadanky;
 import java.io.Serializable;
 
 /**
- * 1.) 11
- * 2.) 22
- * 3.) 1231
- * 4.) 1232
+ * 1.) 22
+ * 2.) 21
+ * 3.) 1232
+ * 4.) 1231
  * 5.) compilation failed
  */
 public enum Hadanka_2016_12_21 implements Serializable {
