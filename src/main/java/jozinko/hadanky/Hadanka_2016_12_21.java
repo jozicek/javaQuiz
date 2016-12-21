@@ -9,7 +9,7 @@ import java.io.Serializable;
  * 4.) 1232
  * 5.) compilation failed
  */
-public enum Hadanka_2016_12_21 implements Serializable{
+public enum Hadanka_2016_12_21 implements Serializable {
 
   A(1), B(2), C(3);
 
@@ -17,7 +17,7 @@ public enum Hadanka_2016_12_21 implements Serializable{
     System.out.println(B.ordinal());
   }
 
-  private Hadanka_2016_12_21(int i){
+  private Hadanka_2016_12_21(int i) {
     System.out.print(i);
   }
 
