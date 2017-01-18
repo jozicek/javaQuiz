@@ -2,9 +2,10 @@ package jozinko.hadanky;
 
 /**
  * 1.) 0
- * 2.) 0 1
+ * 2.) 0 2
  * 3.) runtime error
  * 4.) compilation failed
+ * 5.) 0 1 3
  */
 public class Hadanka_2017_01_18 {
 
