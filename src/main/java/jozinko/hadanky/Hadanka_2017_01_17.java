@@ -7,7 +7,7 @@ package jozinko.hadanky;
  * 4.) compilation failed
  * 5.) runtime error
  */
-public class Hadanka_2016_01_17 {
+public class Hadanka_2017_01_17 {
 
   public static void main(String[] args) {
     try {
@@ -15,9 +15,9 @@ public class Hadanka_2016_01_17 {
       int y = 5 / x;
     } catch (Exception e) {
       System.out.println("ex");
-    } catch (ArithmeticException ae) {
+    } /*catch (ArithmeticException ae) {
       System.out.println("aex");
-    }
+    }*/
     System.out.println("finished");
   }
 
