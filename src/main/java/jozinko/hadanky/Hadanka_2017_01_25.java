@@ -5,6 +5,8 @@ package jozinko.hadanky;
  * 2.) Compilation fails.
  * 3.) C
  * 4.) BC
+ * 5.) CD
+ * 6.) BCD
  */
 public class Hadanka_2017_01_25 {
 
