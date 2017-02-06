@@ -16,7 +16,7 @@ public class Hadanka_2017_01_18 {
     for (int i = 0; i < 10 % j + 1; i += 2) {
       System.out.print(i + " ");
     }
-    System.out.println(i);
+    //System.out.println(i);
   }
 
 }

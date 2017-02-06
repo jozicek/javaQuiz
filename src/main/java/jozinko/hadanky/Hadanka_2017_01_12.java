@@ -11,7 +11,7 @@ import jozinko.hadanky.dependencies.Foo;
 public class Hadanka_2017_01_12 {
 
   public static void main(String[] args) {
-    Foo foo = new Foo();
-    System.out.println(foo.count);
+    //Foo foo = new Foo();
+    //System.out.println(foo.count);
   }
 }

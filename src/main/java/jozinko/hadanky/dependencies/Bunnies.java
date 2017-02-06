@@ -9,7 +9,7 @@ public class Bunnies {
   }
 
   public Bunnies(int x) {
-    super();
+    x++;
   }
 
   public static void main(String[] args) {

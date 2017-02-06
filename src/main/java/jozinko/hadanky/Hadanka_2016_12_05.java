@@ -12,7 +12,7 @@ public class Hadanka_2016_12_05 {
 
   {
     System.out.println(a);
-    System.out.println(b.equals(a));;
+    System.out.println(b.equals(a));
     System.out.println(b == a);
     System.out.println(b = true);
   }

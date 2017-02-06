@@ -15,5 +15,4 @@ public class Hadanka_2017_01_20 {
     Test test = new Fest();
     test.test();
   }
-
 }

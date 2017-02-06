@@ -17,10 +17,12 @@ public class Hadanka_2016_12_01 {
 
   public static void main(String[] args) {
     int[] a = {1,2,3,4};
+    int i = 1;
+    Object o = a;
     String s = "abcd";
     System.out.println(a instanceof Object); // #3
     System.out.println(null instanceof Object); // #4
-    System.out.println(s instanceof Integer); // #5
+    //System.out.println(s instanceof Integer); // #5
   }
 
 }

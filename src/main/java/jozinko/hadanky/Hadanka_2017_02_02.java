@@ -18,7 +18,6 @@ public class Hadanka_2017_02_02 {
 
     System.out.println("A = " + A);
     System.out.println("B = " + B);
-
   }
 
   static void change(int i) {
@@ -30,3 +29,4 @@ public class Hadanka_2017_02_02 {
   }
 
 }
+

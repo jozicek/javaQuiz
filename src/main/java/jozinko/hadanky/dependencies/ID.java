@@ -3,12 +3,12 @@ package jozinko.hadanky.dependencies;
 /**
  *
  */
-public class ID {
+  public class ID {
 
-  private final int id;
+    private final int id;
 
-  public ID(final int id) {
-    this.id = id;
-  }
+    public ID(final int id) {
+      this.id = id;
+    }
 
 }

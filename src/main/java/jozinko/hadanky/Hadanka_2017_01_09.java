@@ -16,7 +16,7 @@ public class Hadanka_2017_01_09 {
   public static void main(String[] args) {
     map.put("param1", "value1"); //line 1
     map.put("param2", "value2");
-    map = new HashMap(); // line 3
+    //map = new HashMap(); // line 3
   }
 
 }

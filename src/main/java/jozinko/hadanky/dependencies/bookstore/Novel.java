@@ -11,6 +11,7 @@ class Novel extends Book {
     return author;
   }
   String getAuthor2() {
-    return new Book().author;
+    //return new Book().author;
+    return null; // should be removed and use line abowe instead.
   }
 }

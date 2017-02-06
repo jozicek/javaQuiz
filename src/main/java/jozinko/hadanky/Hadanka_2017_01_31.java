@@ -12,7 +12,7 @@ public class Hadanka_2017_01_31 {
   private int x = 4;
 
   public static void main(String[] args) {
-    protected int x = 6; // #1
+    //protected int x = 6; // #1
     new Hadanka_2017_01_31().new Inner().out(); // #2
   }
 
