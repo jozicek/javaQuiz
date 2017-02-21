@@ -15,10 +15,10 @@ public class Hadanka_2017_02_16 {
   public static void main(String[] args) {
     List<String> ls = new ArrayList<>();
     ls.add("Hello ");
-    List<Object> lo = ls; //#1
-    lo.add("World"); //#2
+   // List<Object> lo = ls; //#1
+   // lo.add("World"); //#2
 
-    for (String s : ls) {
+    for (Object s : ls) {
       System.out.println(s);
     }
   }
